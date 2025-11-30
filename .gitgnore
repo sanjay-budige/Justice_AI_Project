@@ -1,12 +1,46 @@
-# Java / Eclipse Junk
+=====================================
+
+Java / Spring Boot / Eclipse
+
+=====================================
+
 target/
 *.class
 .settings/
 .classpath
 .project
 .metadata/
+bin/
+logs/
+*.log
+.vscode/
+*.jar
+*.war
 
-# Node / React Junk (Very Important to ignore!)
+=====================================
+
+Node.js / React / Vite
+
+=====================================
+
 node_modules/
 dist/
+build/
 .env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+=====================================
+
+OS Generated Files
+
+=====================================
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk

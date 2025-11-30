@@ -1,0 +1,12 @@
+# Java / Eclipse Junk
+target/
+*.class
+.settings/
+.classpath
+.project
+.metadata/
+
+# Node / React Junk (Very Important to ignore!)
+node_modules/
+dist/
+.env
